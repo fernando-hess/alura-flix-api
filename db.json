@@ -7,21 +7,13 @@
         {
             "id": 2,
             "titulo": "¿Qué es JavaScript?",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Gabi.png",
             "link": "https://www.youtube.com/watch?v=GJfOSoaXk4s"
         },
         {
             "id": 3,
             "titulo": "Equipo Front End #AluraMás",
             "link": "https://www.youtube.com/watch?v=rpvrLaBQwgg"
-        },
-        {
-            "id": 4,
-            "titulo": "Detección de intruso con IA",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Ale.png",
-            "link": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs"
         }
 ]
-
 }
 
