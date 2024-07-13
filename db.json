@@ -2,14 +2,13 @@
         {
             "id": 1,
             "titulo": "Cuándo usar let, var y const? #AluraMás",
-            "capa": "https://i.ytimg.com/vi/PztCEdIJITY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJWqQzWreQLTp7q4esMjlV1roLTA",
             "link": "https://www.youtube.com/watch?v=PztCEdIJITY&t=638s"
         },
         {
             "id": 2,
-            "titulo": "Productividad en el trabajo remoto",
+            "titulo": "¿Qué es JavaScript?",
             "capa": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Gabi.png",
-            "link": "https://www.youtube.com/embed/AULPtYo25Lw?si=UGdKX1NSrEcQ0jfn"
+            "link": "https://www.youtube.com/watch?v=GJfOSoaXk4s"
         },
         {
             "id": 3,
